@@ -1,0 +1,9 @@
+h1{
+    color: chocolate;
+}
+
+input{
+    color:#234543;
+    margin: 10px;
+    flex: content;
+}
